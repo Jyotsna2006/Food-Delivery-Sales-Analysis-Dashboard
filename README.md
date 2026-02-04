@@ -33,7 +33,7 @@ All visuals are interconnected, allowing users to interact with the data dynamic
 ## 🔗 Dashboard Access
 
 - 📊 **Excel Dashboard File:** Uploaded to this repository (download to view full interactivity)
-- 🎥 **Dashboard Walkthrough Video:**
+- 🎥 **Dashboard Walkthrough Video:** Coming soon
 
 > Note: GitHub does not support previewing large Excel files. Please download the file to explore full dashboard functionality.
 
