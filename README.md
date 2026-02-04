@@ -30,6 +30,14 @@ All visuals are interconnected, allowing users to interact with the data dynamic
 ![Dashboard Overview](Swiggy_Sales_Performance_Dashboard.png)
 *Interactive dashboard showing total sales, average ratings, total orders, and Veg vs Non-Veg sales.*
 
+## 🔗 Dashboard Access
+
+- 📊 **Excel Dashboard File:** Uploaded to this repository (download to view full interactivity)
+- 🎥 **Dashboard Walkthrough Video:**
+
+> Note: GitHub does not support previewing large Excel files. Please download the file to explore full dashboard functionality.
+
+
 ### 📊 Analysis & Calculations
 
 Before creating the dashboard, the following analysis steps were performed to **prepare and understand the data**:
@@ -76,6 +84,17 @@ The dashboard highlights the following core metrics to provide a quick business 
 - **Ratings Count** – Number of reviews, showing engagement and feedback volume.
 
 > These KPIs are displayed as **interactive cards on the main dashboard**, allowing stakeholders to quickly assess overall business performance.
+
+## 📂 Dataset Description
+
+The dataset used in this project represents simulated Swiggy food delivery sales data. It contains order-level information such as order date, sales value, food category (Veg/Non-Veg), customer ratings, city, and state.
+
+This dataset was used solely for learning and practice purposes to understand data analysis, KPI tracking, and dashboard design using Excel. The data does not represent real customer or business information.
+
+
+## ⚠️ Disclaimer
+
+This project is created strictly for educational and portfolio purposes. The dataset and dashboard are not affiliated with or endorsed by Swiggy.
 
 ## 🛠 Tools & Techniques Used
 
