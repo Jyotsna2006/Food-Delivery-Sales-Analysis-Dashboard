@@ -1,8 +1,8 @@
-# Swiggy Sales Performance Dashboard (Excel)
+# Food Delivery Sales Analysis Dashboard (Excel)
 
 ## 📌 Project Overview
 
-The **Swiggy Sales Performance Dashboard** is an interactive Excel report designed to **turn complex sales data into actionable business insights**.  
+The **Food Delivery Sales Analysis Dashboard** is an interactive Excel report designed to **turn complex sales data into actionable business insights**.  
 
 This dashboard allows stakeholders to **quickly understand sales trends, customer behavior, and regional performance**, enabling **data-driven decisions** that can improve revenue, customer satisfaction, and operational efficiency.  
 
