@@ -27,7 +27,7 @@ The dashboard enables users to:
 
 All visuals are interconnected, allowing users to interact with the data dynamically.
 
-![Dashboard Overview](Swiggy_Sales_Performance_Dashboard.png)
+![Dashboard Overview](https://github.com/Jyotsna2006/Food-Delivery-Sales-Analysis-Dashboard/blob/main/Food%20Delivery%20Sales%20Analysis%20Dashboard.png)
 *Interactive dashboard showing total sales, average ratings, total orders, and Veg vs Non-Veg sales.*
 
 ## 🔗 Dashboard Access
