@@ -105,12 +105,3 @@ This project is created strictly for educational and portfolio purposes. The dat
 ## 🚀 Conclusion
 This project demonstrates the practical application of Excel for business analytics by transforming raw food delivery sales data into an interactive decision-support dashboard.
 
-### Future Enhancements
-- Automating data refresh
-- Adding advanced trend forecasting
-- Migrating the dashboard to Power BI for enhanced scalability
-
-Future enhancements may include:
-- Automating data refresh
-- Adding advanced trend forecasting
-- Migrating the dashboard to Power BI for enhanced scalability
