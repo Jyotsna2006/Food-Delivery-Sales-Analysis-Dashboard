@@ -42,13 +42,13 @@ All visuals are interconnected, allowing users to interact with the data dynamic
 
 Before creating the dashboard, the following analysis steps were performed to **prepare and understand the data**:
 
-![Analysis 1](Swiggy_Dashboard_Analysis1.png)
+![Analysis 1](Analysis1.png)
 *KPI calculations for Average Order Value, Ratings, and Ratings Count.*
 
-![Analysis 2](Swiggy_Dashboard_Analysis2.png)
+![Analysis 2](Analysis2.png)
 *Pivot table showing total sales and total orders by state.*
 
-![Analysis 3](Swiggy_Dashboard_Analysis3.png)
+![Analysis 3](Analysis3.png)
 *Charts showing daily and monthly sales trends, used to identify patterns and business insights.*
 
 ## 📌 Business Problem
